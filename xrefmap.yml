@@ -1,0 +1,332 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Assignmentt
+  name: Assignmentt
+  href: api/Assignmentt.html
+  commentId: N:Assignmentt
+  fullName: Assignmentt
+  nameWithType: Assignmentt
+- uid: Assignmentt.CanvasClass
+  name: CanvasClass
+  href: api/Assignmentt.CanvasClass.html
+  commentId: T:Assignmentt.CanvasClass
+  fullName: Assignmentt.CanvasClass
+  nameWithType: CanvasClass
+- uid: Assignmentt.CanvasClass.#ctor
+  name: CanvasClass()
+  href: api/Assignmentt.CanvasClass.html#Assignmentt_CanvasClass__ctor
+  commentId: M:Assignmentt.CanvasClass.#ctor
+  name.vb: New()
+  fullName: Assignmentt.CanvasClass.CanvasClass()
+  fullName.vb: Assignmentt.CanvasClass.New()
+  nameWithType: CanvasClass.CanvasClass()
+  nameWithType.vb: CanvasClass.New()
+- uid: Assignmentt.CanvasClass.#ctor*
+  name: CanvasClass
+  href: api/Assignmentt.CanvasClass.html#Assignmentt_CanvasClass__ctor_
+  commentId: Overload:Assignmentt.CanvasClass.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Assignmentt.CanvasClass.CanvasClass
+  fullName.vb: Assignmentt.CanvasClass.New
+  nameWithType: CanvasClass.CanvasClass
+  nameWithType.vb: CanvasClass.New
+- uid: Assignmentt.CanvasClass.Circle(System.Int32,System.Boolean)
+  name: Circle(int, bool)
+  href: api/Assignmentt.CanvasClass.html#Assignmentt_CanvasClass_Circle_System_Int32_System_Boolean_
+  commentId: M:Assignmentt.CanvasClass.Circle(System.Int32,System.Boolean)
+  name.vb: Circle(Integer, Boolean)
+  fullName: Assignmentt.CanvasClass.Circle(int, bool)
+  fullName.vb: Assignmentt.CanvasClass.Circle(Integer, Boolean)
+  nameWithType: CanvasClass.Circle(int, bool)
+  nameWithType.vb: CanvasClass.Circle(Integer, Boolean)
+- uid: Assignmentt.CanvasClass.Circle*
+  name: Circle
+  href: api/Assignmentt.CanvasClass.html#Assignmentt_CanvasClass_Circle_
+  commentId: Overload:Assignmentt.CanvasClass.Circle
+  isSpec: "True"
+  fullName: Assignmentt.CanvasClass.Circle
+  nameWithType: CanvasClass.Circle
+- uid: Assignmentt.CanvasClass.Clear
+  name: Clear()
+  href: api/Assignmentt.CanvasClass.html#Assignmentt_CanvasClass_Clear
+  commentId: M:Assignmentt.CanvasClass.Clear
+  fullName: Assignmentt.CanvasClass.Clear()
+  nameWithType: CanvasClass.Clear()
+- uid: Assignmentt.CanvasClass.Clear*
+  name: Clear
+  href: api/Assignmentt.CanvasClass.html#Assignmentt_CanvasClass_Clear_
+  commentId: Overload:Assignmentt.CanvasClass.Clear
+  isSpec: "True"
+  fullName: Assignmentt.CanvasClass.Clear
+  nameWithType: CanvasClass.Clear
+- uid: Assignmentt.CanvasClass.DrawTo(System.Int32,System.Int32)
+  name: DrawTo(int, int)
+  href: api/Assignmentt.CanvasClass.html#Assignmentt_CanvasClass_DrawTo_System_Int32_System_Int32_
+  commentId: M:Assignmentt.CanvasClass.DrawTo(System.Int32,System.Int32)
+  name.vb: DrawTo(Integer, Integer)
+  fullName: Assignmentt.CanvasClass.DrawTo(int, int)
+  fullName.vb: Assignmentt.CanvasClass.DrawTo(Integer, Integer)
+  nameWithType: CanvasClass.DrawTo(int, int)
+  nameWithType.vb: CanvasClass.DrawTo(Integer, Integer)
+- uid: Assignmentt.CanvasClass.DrawTo*
+  name: DrawTo
+  href: api/Assignmentt.CanvasClass.html#Assignmentt_CanvasClass_DrawTo_
+  commentId: Overload:Assignmentt.CanvasClass.DrawTo
+  isSpec: "True"
+  fullName: Assignmentt.CanvasClass.DrawTo
+  nameWithType: CanvasClass.DrawTo
+- uid: Assignmentt.CanvasClass.MoveTo(System.Int32,System.Int32)
+  name: MoveTo(int, int)
+  href: api/Assignmentt.CanvasClass.html#Assignmentt_CanvasClass_MoveTo_System_Int32_System_Int32_
+  commentId: M:Assignmentt.CanvasClass.MoveTo(System.Int32,System.Int32)
+  name.vb: MoveTo(Integer, Integer)
+  fullName: Assignmentt.CanvasClass.MoveTo(int, int)
+  fullName.vb: Assignmentt.CanvasClass.MoveTo(Integer, Integer)
+  nameWithType: CanvasClass.MoveTo(int, int)
+  nameWithType.vb: CanvasClass.MoveTo(Integer, Integer)
+- uid: Assignmentt.CanvasClass.MoveTo*
+  name: MoveTo
+  href: api/Assignmentt.CanvasClass.html#Assignmentt_CanvasClass_MoveTo_
+  commentId: Overload:Assignmentt.CanvasClass.MoveTo
+  isSpec: "True"
+  fullName: Assignmentt.CanvasClass.MoveTo
+  nameWithType: CanvasClass.MoveTo
+- uid: Assignmentt.CanvasClass.PenColour
+  name: PenColour
+  href: api/Assignmentt.CanvasClass.html#Assignmentt_CanvasClass_PenColour
+  commentId: P:Assignmentt.CanvasClass.PenColour
+  fullName: Assignmentt.CanvasClass.PenColour
+  nameWithType: CanvasClass.PenColour
+- uid: Assignmentt.CanvasClass.PenColour*
+  name: PenColour
+  href: api/Assignmentt.CanvasClass.html#Assignmentt_CanvasClass_PenColour_
+  commentId: Overload:Assignmentt.CanvasClass.PenColour
+  isSpec: "True"
+  fullName: Assignmentt.CanvasClass.PenColour
+  nameWithType: CanvasClass.PenColour
+- uid: Assignmentt.CanvasClass.Rect(System.Int32,System.Int32,System.Boolean)
+  name: Rect(int, int, bool)
+  href: api/Assignmentt.CanvasClass.html#Assignmentt_CanvasClass_Rect_System_Int32_System_Int32_System_Boolean_
+  commentId: M:Assignmentt.CanvasClass.Rect(System.Int32,System.Int32,System.Boolean)
+  name.vb: Rect(Integer, Integer, Boolean)
+  fullName: Assignmentt.CanvasClass.Rect(int, int, bool)
+  fullName.vb: Assignmentt.CanvasClass.Rect(Integer, Integer, Boolean)
+  nameWithType: CanvasClass.Rect(int, int, bool)
+  nameWithType.vb: CanvasClass.Rect(Integer, Integer, Boolean)
+- uid: Assignmentt.CanvasClass.Rect*
+  name: Rect
+  href: api/Assignmentt.CanvasClass.html#Assignmentt_CanvasClass_Rect_
+  commentId: Overload:Assignmentt.CanvasClass.Rect
+  isSpec: "True"
+  fullName: Assignmentt.CanvasClass.Rect
+  nameWithType: CanvasClass.Rect
+- uid: Assignmentt.CanvasClass.Reset
+  name: Reset()
+  href: api/Assignmentt.CanvasClass.html#Assignmentt_CanvasClass_Reset
+  commentId: M:Assignmentt.CanvasClass.Reset
+  fullName: Assignmentt.CanvasClass.Reset()
+  nameWithType: CanvasClass.Reset()
+- uid: Assignmentt.CanvasClass.Reset*
+  name: Reset
+  href: api/Assignmentt.CanvasClass.html#Assignmentt_CanvasClass_Reset_
+  commentId: Overload:Assignmentt.CanvasClass.Reset
+  isSpec: "True"
+  fullName: Assignmentt.CanvasClass.Reset
+  nameWithType: CanvasClass.Reset
+- uid: Assignmentt.CanvasClass.Set(System.Int32,System.Int32)
+  name: Set(int, int)
+  href: api/Assignmentt.CanvasClass.html#Assignmentt_CanvasClass_Set_System_Int32_System_Int32_
+  commentId: M:Assignmentt.CanvasClass.Set(System.Int32,System.Int32)
+  name.vb: Set(Integer, Integer)
+  fullName: Assignmentt.CanvasClass.Set(int, int)
+  fullName.vb: Assignmentt.CanvasClass.Set(Integer, Integer)
+  nameWithType: CanvasClass.Set(int, int)
+  nameWithType.vb: CanvasClass.Set(Integer, Integer)
+- uid: Assignmentt.CanvasClass.Set*
+  name: Set
+  href: api/Assignmentt.CanvasClass.html#Assignmentt_CanvasClass_Set_
+  commentId: Overload:Assignmentt.CanvasClass.Set
+  isSpec: "True"
+  fullName: Assignmentt.CanvasClass.Set
+  nameWithType: CanvasClass.Set
+- uid: Assignmentt.CanvasClass.SetColour(System.Int32,System.Int32,System.Int32)
+  name: SetColour(int, int, int)
+  href: api/Assignmentt.CanvasClass.html#Assignmentt_CanvasClass_SetColour_System_Int32_System_Int32_System_Int32_
+  commentId: M:Assignmentt.CanvasClass.SetColour(System.Int32,System.Int32,System.Int32)
+  name.vb: SetColour(Integer, Integer, Integer)
+  fullName: Assignmentt.CanvasClass.SetColour(int, int, int)
+  fullName.vb: Assignmentt.CanvasClass.SetColour(Integer, Integer, Integer)
+  nameWithType: CanvasClass.SetColour(int, int, int)
+  nameWithType.vb: CanvasClass.SetColour(Integer, Integer, Integer)
+- uid: Assignmentt.CanvasClass.SetColour*
+  name: SetColour
+  href: api/Assignmentt.CanvasClass.html#Assignmentt_CanvasClass_SetColour_
+  commentId: Overload:Assignmentt.CanvasClass.SetColour
+  isSpec: "True"
+  fullName: Assignmentt.CanvasClass.SetColour
+  nameWithType: CanvasClass.SetColour
+- uid: Assignmentt.CanvasClass.Tri(System.Int32,System.Int32)
+  name: Tri(int, int)
+  href: api/Assignmentt.CanvasClass.html#Assignmentt_CanvasClass_Tri_System_Int32_System_Int32_
+  commentId: M:Assignmentt.CanvasClass.Tri(System.Int32,System.Int32)
+  name.vb: Tri(Integer, Integer)
+  fullName: Assignmentt.CanvasClass.Tri(int, int)
+  fullName.vb: Assignmentt.CanvasClass.Tri(Integer, Integer)
+  nameWithType: CanvasClass.Tri(int, int)
+  nameWithType.vb: CanvasClass.Tri(Integer, Integer)
+- uid: Assignmentt.CanvasClass.Tri*
+  name: Tri
+  href: api/Assignmentt.CanvasClass.html#Assignmentt_CanvasClass_Tri_
+  commentId: Overload:Assignmentt.CanvasClass.Tri
+  isSpec: "True"
+  fullName: Assignmentt.CanvasClass.Tri
+  nameWithType: CanvasClass.Tri
+- uid: Assignmentt.CanvasClass.WriteText(System.String)
+  name: WriteText(string)
+  href: api/Assignmentt.CanvasClass.html#Assignmentt_CanvasClass_WriteText_System_String_
+  commentId: M:Assignmentt.CanvasClass.WriteText(System.String)
+  name.vb: WriteText(String)
+  fullName: Assignmentt.CanvasClass.WriteText(string)
+  fullName.vb: Assignmentt.CanvasClass.WriteText(String)
+  nameWithType: CanvasClass.WriteText(string)
+  nameWithType.vb: CanvasClass.WriteText(String)
+- uid: Assignmentt.CanvasClass.WriteText*
+  name: WriteText
+  href: api/Assignmentt.CanvasClass.html#Assignmentt_CanvasClass_WriteText_
+  commentId: Overload:Assignmentt.CanvasClass.WriteText
+  isSpec: "True"
+  fullName: Assignmentt.CanvasClass.WriteText
+  nameWithType: CanvasClass.WriteText
+- uid: Assignmentt.CanvasClass.Xpos
+  name: Xpos
+  href: api/Assignmentt.CanvasClass.html#Assignmentt_CanvasClass_Xpos
+  commentId: P:Assignmentt.CanvasClass.Xpos
+  fullName: Assignmentt.CanvasClass.Xpos
+  nameWithType: CanvasClass.Xpos
+- uid: Assignmentt.CanvasClass.Xpos*
+  name: Xpos
+  href: api/Assignmentt.CanvasClass.html#Assignmentt_CanvasClass_Xpos_
+  commentId: Overload:Assignmentt.CanvasClass.Xpos
+  isSpec: "True"
+  fullName: Assignmentt.CanvasClass.Xpos
+  nameWithType: CanvasClass.Xpos
+- uid: Assignmentt.CanvasClass.Ypos
+  name: Ypos
+  href: api/Assignmentt.CanvasClass.html#Assignmentt_CanvasClass_Ypos
+  commentId: P:Assignmentt.CanvasClass.Ypos
+  fullName: Assignmentt.CanvasClass.Ypos
+  nameWithType: CanvasClass.Ypos
+- uid: Assignmentt.CanvasClass.Ypos*
+  name: Ypos
+  href: api/Assignmentt.CanvasClass.html#Assignmentt_CanvasClass_Ypos_
+  commentId: Overload:Assignmentt.CanvasClass.Ypos
+  isSpec: "True"
+  fullName: Assignmentt.CanvasClass.Ypos
+  nameWithType: CanvasClass.Ypos
+- uid: Assignmentt.CanvasClass.getBitmap
+  name: getBitmap()
+  href: api/Assignmentt.CanvasClass.html#Assignmentt_CanvasClass_getBitmap
+  commentId: M:Assignmentt.CanvasClass.getBitmap
+  fullName: Assignmentt.CanvasClass.getBitmap()
+  nameWithType: CanvasClass.getBitmap()
+- uid: Assignmentt.CanvasClass.getBitmap*
+  name: getBitmap
+  href: api/Assignmentt.CanvasClass.html#Assignmentt_CanvasClass_getBitmap_
+  commentId: Overload:Assignmentt.CanvasClass.getBitmap
+  isSpec: "True"
+  fullName: Assignmentt.CanvasClass.getBitmap
+  nameWithType: CanvasClass.getBitmap
+- uid: Assignmentt.Form1
+  name: Form1
+  href: api/Assignmentt.Form1.html
+  commentId: T:Assignmentt.Form1
+  fullName: Assignmentt.Form1
+  nameWithType: Form1
+- uid: Assignmentt.Form1.#ctor
+  name: Form1()
+  href: api/Assignmentt.Form1.html#Assignmentt_Form1__ctor
+  commentId: M:Assignmentt.Form1.#ctor
+  name.vb: New()
+  fullName: Assignmentt.Form1.Form1()
+  fullName.vb: Assignmentt.Form1.New()
+  nameWithType: Form1.Form1()
+  nameWithType.vb: Form1.New()
+- uid: Assignmentt.Form1.#ctor*
+  name: Form1
+  href: api/Assignmentt.Form1.html#Assignmentt_Form1__ctor_
+  commentId: Overload:Assignmentt.Form1.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Assignmentt.Form1.Form1
+  fullName.vb: Assignmentt.Form1.New
+  nameWithType: Form1.Form1
+  nameWithType.vb: Form1.New
+- uid: Assignmentt.Form1.Dispose(System.Boolean)
+  name: Dispose(bool)
+  href: api/Assignmentt.Form1.html#Assignmentt_Form1_Dispose_System_Boolean_
+  commentId: M:Assignmentt.Form1.Dispose(System.Boolean)
+  name.vb: Dispose(Boolean)
+  fullName: Assignmentt.Form1.Dispose(bool)
+  fullName.vb: Assignmentt.Form1.Dispose(Boolean)
+  nameWithType: Form1.Dispose(bool)
+  nameWithType.vb: Form1.Dispose(Boolean)
+- uid: Assignmentt.Form1.Dispose*
+  name: Dispose
+  href: api/Assignmentt.Form1.html#Assignmentt_Form1_Dispose_
+  commentId: Overload:Assignmentt.Form1.Dispose
+  isSpec: "True"
+  fullName: Assignmentt.Form1.Dispose
+  nameWithType: Form1.Dispose
+- uid: BOOSEtesting
+  name: BOOSEtesting
+  href: api/BOOSEtesting.html
+  commentId: N:BOOSEtesting
+  fullName: BOOSEtesting
+  nameWithType: BOOSEtesting
+- uid: BOOSEtesting.UnitTest1
+  name: UnitTest1
+  href: api/BOOSEtesting.UnitTest1.html
+  commentId: T:BOOSEtesting.UnitTest1
+  fullName: BOOSEtesting.UnitTest1
+  nameWithType: UnitTest1
+- uid: BOOSEtesting.UnitTest1.DrawToStorePenPos
+  name: DrawToStorePenPos()
+  href: api/BOOSEtesting.UnitTest1.html#BOOSEtesting_UnitTest1_DrawToStorePenPos
+  commentId: M:BOOSEtesting.UnitTest1.DrawToStorePenPos
+  fullName: BOOSEtesting.UnitTest1.DrawToStorePenPos()
+  nameWithType: UnitTest1.DrawToStorePenPos()
+- uid: BOOSEtesting.UnitTest1.DrawToStorePenPos*
+  name: DrawToStorePenPos
+  href: api/BOOSEtesting.UnitTest1.html#BOOSEtesting_UnitTest1_DrawToStorePenPos_
+  commentId: Overload:BOOSEtesting.UnitTest1.DrawToStorePenPos
+  isSpec: "True"
+  fullName: BOOSEtesting.UnitTest1.DrawToStorePenPos
+  nameWithType: UnitTest1.DrawToStorePenPos
+- uid: BOOSEtesting.UnitTest1.MoveToStorePenPos
+  name: MoveToStorePenPos()
+  href: api/BOOSEtesting.UnitTest1.html#BOOSEtesting_UnitTest1_MoveToStorePenPos
+  commentId: M:BOOSEtesting.UnitTest1.MoveToStorePenPos
+  fullName: BOOSEtesting.UnitTest1.MoveToStorePenPos()
+  nameWithType: UnitTest1.MoveToStorePenPos()
+- uid: BOOSEtesting.UnitTest1.MoveToStorePenPos*
+  name: MoveToStorePenPos
+  href: api/BOOSEtesting.UnitTest1.html#BOOSEtesting_UnitTest1_MoveToStorePenPos_
+  commentId: Overload:BOOSEtesting.UnitTest1.MoveToStorePenPos
+  isSpec: "True"
+  fullName: BOOSEtesting.UnitTest1.MoveToStorePenPos
+  nameWithType: UnitTest1.MoveToStorePenPos
+- uid: BOOSEtesting.UnitTest1.MultiLine
+  name: MultiLine()
+  href: api/BOOSEtesting.UnitTest1.html#BOOSEtesting_UnitTest1_MultiLine
+  commentId: M:BOOSEtesting.UnitTest1.MultiLine
+  fullName: BOOSEtesting.UnitTest1.MultiLine()
+  nameWithType: UnitTest1.MultiLine()
+- uid: BOOSEtesting.UnitTest1.MultiLine*
+  name: MultiLine
+  href: api/BOOSEtesting.UnitTest1.html#BOOSEtesting_UnitTest1_MultiLine_
+  commentId: Overload:BOOSEtesting.UnitTest1.MultiLine
+  isSpec: "True"
+  fullName: BOOSEtesting.UnitTest1.MultiLine
+  nameWithType: UnitTest1.MultiLine
